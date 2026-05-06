@@ -21,7 +21,7 @@
         "changelog": "ARM架构适配"
       }
     }
-    "install_type": "系统空间",
+    "install_type": "系统空间"
     
   }
 }
