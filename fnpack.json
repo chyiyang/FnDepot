@@ -1,0 +1,19 @@
+{  
+  "敲门knock": {
+    "display_name": "敲门knock",
+    "desc": "fn-knock 为飞牛 NAS 提供极简部署的安全边界与鉴权服务，内置零信任策略、智能防护与 全链路观测，适合家庭与小型团队的高可靠远程访问。",
+    "labels": "工具,服务器管理,监控,WAF,FRP",
+    "version": "1.6.1",
+    "author": "kci-lnk",
+    "author_url": "https://github.com/kci-lnk",
+    "bug_report_url": "https://github.com/kci-lnk/FnDepot/issues",
+	"download_url": "https://fn-knock.cdn.wxlnk.com/files/1.6.1/fn-knock-amd64.fpk",
+	"install_type": "系统空间",
+    "size": "8.9",
+    "history": {
+      "V1.6.1": "1、系统设置->飞牛，添加了“端口类图标接管“功能，开启后，在公网访问原本可能无法打开的图标，现在可以自动切换到已配置的”子域名“来访问，避免单独一个个手动设置“自定义URL”
+2、修复飞牛分享直通功能不兼容带密码的分享链接的问题"
+    }
+    
+  }
+}
